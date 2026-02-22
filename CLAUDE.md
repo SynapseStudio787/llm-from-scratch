@@ -18,7 +18,7 @@ Ramon is building an LLM from scratch as a learning exercise, following the conc
 - [x] Stage 1: Tokenization — `01_tokenization.py`
 - [x] Stage 2: Embeddings — `02_embeddings.py`
 - [x] Stage 3: Self-Attention with causal masking — `03_attention.py`
-- [ ] Stage 4: Multi-Head Attention
+- [x] Stage 4: Multi-Head Attention (efficient reshape trick) — `04_multihead_attention.py`
 - [ ] Stage 5: GPT Model Architecture
 - [ ] Stage 6: Pretraining
 - [ ] Stage 7: Fine-tuning
@@ -26,7 +26,7 @@ Ramon is building an LLM from scratch as a learning exercise, following the conc
 ## Resume instructions
 Pick up at the next unchecked stage. Follow the same pattern:
 1. Explain the concept
-2. Write the file (`04_multihead_attention.py`, etc.)
+2. Write the file (`05_gpt_model.py`, etc.)
 3. Run it and walk through the output
 4. Commit and push
 5. Mark the stage complete in this file
