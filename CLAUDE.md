@@ -19,7 +19,7 @@ Ramon is building an LLM from scratch as a learning exercise, following the conc
 - [x] Stage 2: Embeddings — `02_embeddings.py`
 - [x] Stage 3: Self-Attention with causal masking — `03_attention.py`
 - [x] Stage 4: Multi-Head Attention (efficient reshape trick) — `04_multihead_attention.py`
-- [ ] Stage 5: GPT Model Architecture
+- [x] Stage 5: Full GPT model (TransformerBlock, FeedForward, weight tying, generation) — `05_gpt_model.py`
 - [ ] Stage 6: Pretraining
 - [ ] Stage 7: Fine-tuning
 
