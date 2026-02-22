@@ -21,7 +21,7 @@ Ramon is building an LLM from scratch as a learning exercise, following the conc
 - [x] Stage 4: Multi-Head Attention (efficient reshape trick) — `04_multihead_attention.py`
 - [x] Stage 5: Full GPT model (TransformerBlock, FeedForward, weight tying, generation) — `05_gpt_model.py`
 - [x] Stage 6: Pretraining (cross-entropy loss, AdamW, training loop, before/after generation) — `06_pretraining.py`
-- [ ] Stage 7: Fine-tuning
+- [x] Stage 7: Fine-tuning (classification head + instruction tuning with loss masking) — `07_finetuning.py`
 
 ## Resume instructions
 Pick up at the next unchecked stage. Follow the same pattern:
